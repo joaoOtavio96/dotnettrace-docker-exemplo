@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DotnetTraceDocker.Api.props" />
+</Project>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Fh6jc5qRcjSkYUSenbhWCB/iqpaZ3RagbsprS1lk62s=",
+  "Source": "DotnetTraceDocker.Api",
+  "BasePath": "_content/DotnetTraceDocker.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
